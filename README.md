@@ -25,3 +25,6 @@ Blynk IoT Platform
 
 
 https://wokwi.com/projects/446755802717982721
+
+
+https://blynk.cloud/dashboard/578773/templates/1219328/dashboard
